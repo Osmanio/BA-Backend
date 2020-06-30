@@ -1,0 +1,16 @@
+bs4
+nltk
+termcolor
+langdetect
+google
+google-api-core
+google-cloud
+google-cloud-vision
+google-cloud-storage
+pymongo
+flask
+Pillow
+requests-html
+selenium
+imagehash
+tld

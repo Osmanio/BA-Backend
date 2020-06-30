@@ -1,0 +1,19 @@
+{
+	"_id": "",
+	"Date": "",
+	"ImageHash": "",
+	"ImageURL": "",
+	"OCRText": "",
+	"OCRToxicTerms": "",
+	"KeywordsAggregatedDE": "",
+	"KeywordsAggregatedEN": "",
+	"KeywordsMostCommonDE": "",
+	"KeywordsMostCommonEN": "",
+	"BestGuessedLabel": "",
+	"WebEntities": "",
+	"Flag": "",
+	"ReverseImagesMetadataNone": "",
+	"ReverseImagesMetadata": [
+
+	]
+}

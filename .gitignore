@@ -1,0 +1,12 @@
+# Google credentials
+GOOGLE.json
+
+
+# Testing file
+tests/
+
+# Power Point
+source/PowerPoint
+source/images
+
+TODO.txt
