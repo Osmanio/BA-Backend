@@ -3585,3 +3585,517 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1593549300911	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileUVXns8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549303523	Marionette	INFO	Listening on port 52589
+1593549303533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549307506	Marionette	INFO	Stopped listening on port 52589
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NMoy4HgGiLr5NAQaEQa2ho8X/recaptcha__de.js, line 328: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549312757	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileOq0Jh4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549315334	Marionette	INFO	Listening on port 52661
+1593549315369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549316892	Marionette	INFO	Stopped listening on port 52661
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549321699	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofile0xaU4m"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549324322	Marionette	INFO	Listening on port 52712
+1593549324811	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549326682	Marionette	INFO	Stopped listening on port 52712
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549375369	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileAIFboW"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549378001	Marionette	INFO	Listening on port 52776
+1593549378479	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549383580	Marionette	INFO	Stopped listening on port 52776
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549389462	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofilejHwBbt"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549392139	Marionette	INFO	Listening on port 52920
+1593549392574	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549396279	Marionette	INFO	Stopped listening on port 52920
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549402292	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofilewBQwGD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549404961	Marionette	INFO	Listening on port 53064
+1593549405412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549408728	Marionette	INFO	Stopped listening on port 53064
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549413868	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileuaPdow"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549416461	Marionette	INFO	Listening on port 53213
+1593549416504	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+1593549426281	Marionette	INFO	Stopped listening on port 53213
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=1&gdpr_consent=BO11FhHO11FhHBQABBENDQ-AAAAwd7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-23d4u_1vf99yfm1-7etr3tp_47ues2_Xurf_71__3z3_9pxP78k89r7335Ew_v-_v-b7BCPN_Y3v-8K96lA&us_privacy=1---, line 12: SecurityError: The operation is insecure.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549477782	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofile5VTTl3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549480354	Marionette	INFO	Listening on port 53497
+1593549480398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549484693	Marionette	INFO	Stopped listening on port 53497
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549492777	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofile1gjwR0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549495408	Marionette	INFO	Listening on port 53566
+1593549495890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.powr.io/assets/packs/apps-view-c1856ffe55bc81be5451.js, line 1068: unreachable code after return statement
+1593549501182	Marionette	INFO	Stopped listening on port 53566
+JavaScript error: https://www.powr.io/assets/packs/apps/socialFeed-8da96e7e92618040989f.js, line 2692: ReferenceError: APP_MODEL is not defined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549506464	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileskHp7R"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549509136	Marionette	INFO	Listening on port 53683
+1593549509578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.powr.io/assets/packs/apps-view-c1856ffe55bc81be5451.js, line 1068: unreachable code after return statement
+1593549513152	Marionette	INFO	Stopped listening on port 53683
+JavaScript error: https://www.powr.io/social-feed/u/27d65e8d_1555083170#platform=html, line 9: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549777204	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofile4jINo0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549779809	Marionette	INFO	Listening on port 53840
+1593549779837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549784571	Marionette	INFO	Stopped listening on port 53840
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549883838	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofile1PtORD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549886595	Marionette	INFO	Listening on port 53930
+1593549886952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549891445	Marionette	INFO	Stopped listening on port 53930
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549931159	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileVW4ENl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549933757	Marionette	INFO	Listening on port 54012
+1593549933779	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549937532	Marionette	INFO	Stopped listening on port 54012
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549943654	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofilet7kcOr"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549946197	Marionette	INFO	Listening on port 54163
+1593549946273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549950216	Marionette	INFO	Stopped listening on port 54163
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549956417	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofilefEwSCc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549958984	Marionette	INFO	Listening on port 54313
+1593549959029	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593549963378	Marionette	INFO	Stopped listening on port 54313
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549969707	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofilexk4F6p"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549972155	Marionette	INFO	Listening on port 54468
+1593549972320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+1593549987895	Marionette	INFO	Stopped listening on port 54468
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=1&gdpr_consent=BO11G3vO11G3vBQABBENDQ-AAAAwd7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-23d4u_1vf99yfm1-7etr3tp_47ues2_Xurf_71__3z3_9pxP78k89r7335Ew_v-_v-b7BCPN_Y3v-8K96lA&us_privacy=1---, line 12: SecurityError: The operation is insecure.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593549993251	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileDaCRWc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593549995938	Marionette	INFO	Listening on port 54743
+1593549996367	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+1593550005667	Marionette	INFO	Stopped listening on port 54743
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=1&gdpr_consent=BO11G7aO11G7aBQABBENDQ-AAAAwd7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-23d4u_1vf99yfm1-7etr3tp_47ues2_Xurf_71__3z3_9pxP78k89r7335Ew_v-_v-b7BCPN_Y3v-8K96lA&us_privacy=1---, line 12: SecurityError: The operation is insecure.
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NS64GV, line 4385: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550011159	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileZnSAR7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550013835	Marionette	INFO	Listening on port 55022
+1593550014275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+1593550021975	Marionette	INFO	Stopped listening on port 55022
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=1&gdpr_consent=BO11G-OO11G-OBQABBENDQ-AAAAwd7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-23d4u_1vf99yfm1-7etr3tp_47ues2_Xurf_71__3z3_9pxP78k89r7335Ew_v-_v-b7BCPN_Y3v-8K96lA&us_privacy=1---, line 12: SecurityError: The operation is insecure.
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550027651	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileSpa81g"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550030355	Marionette	INFO	Listening on port 55283
+1593550030764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+1593550038425	Marionette	INFO	Stopped listening on port 55283
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=1&gdpr_consent=BO11HAvO11HAvBQABBENDQ-AAAAwd7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-23d4u_1vf99yfm1-7etr3tp_47ues2_Xurf_71__3z3_9pxP78k89r7335Ew_v-_v-b7BCPN_Y3v-8K96lA, line 12: SecurityError: The operation is insecure.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550044368	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileG4gGTk"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550047044	Marionette	INFO	Listening on port 55556
+1593550047478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+1593550056959	Marionette	INFO	Stopped listening on port 55556
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=1&gdpr_consent=BO11HDqO11HDqBQABBENDQ-AAAAwd7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-23d4u_1vf99yfm1-7etr3tp_47ues2_Xurf_71__3z3_9pxP78k89r7335Ew_v-_v-b7BCPN_Y3v-8K96lA&us_privacy=1---, line 12: SecurityError: The operation is insecure.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550062453	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileU3uwC7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550065095	Marionette	INFO	Listening on port 55827
+1593550065567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+1593550069472	Marionette	INFO	Stopped listening on port 55827
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NS64GV, line 4385: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550075065	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileB9Uor5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550077663	Marionette	INFO	Listening on port 56011
+1593550077682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+1593550086554	Marionette	INFO	Stopped listening on port 56011
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=1&gdpr_consent=BO11HIHO11HIHBQABBENDQ-AAAAwd7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-23d4u_1vf99yfm1-7etr3tp_47ues2_Xurf_71__3z3_9pxP78k89r7335Ew_v-_v-b7BCPN_Y3v-8K96lA, line 12: SecurityError: The operation is insecure.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550091870	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileKRgroT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550094580	Marionette	INFO	Listening on port 56293
+1593550094982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+JavaScript warning: https://confiant-integrations.global.ssl.fastly.net/gpt/202006291656/wrap.js, line 19: unreachable code after return statement
+1593550104324	Marionette	INFO	Stopped listening on port 56293
+JavaScript error: https://eus.rubiconproject.com/usync.html?gdpr=1&gdpr_consent=BO11HLAO11HLABQABBENDQ-AAAAwd7_______9______9uz_Ov_v_f__33e8__9v_l_7_-___u_-23d4u_1vf99yfm1-7etr3tp_47ues2_Xurf_71__3z3_9pxP78k89r7335Ew_v-_v-b7BCPN_Y3v-8K96lA, line 12: SecurityError: The operation is insecure.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550177879	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofile2UXi8c"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550180497	Marionette	INFO	Listening on port 56583
+1593550180993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550184599	Marionette	INFO	Stopped listening on port 56583
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550191024	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofiledrB75S"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550193714	Marionette	INFO	Listening on port 56729
+1593550194139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550197934	Marionette	INFO	Stopped listening on port 56729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550215934	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofile1kK3o2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550218606	Marionette	INFO	Listening on port 56884
+1593550219048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550223780	Marionette	INFO	Stopped listening on port 56884
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550230556	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofile0etZKg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550233230	Marionette	INFO	Listening on port 56941
+1593550233679	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.powr.io/assets/packs/apps-view-c1856ffe55bc81be5451.js, line 1068: unreachable code after return statement
+1593550238759	Marionette	INFO	Stopped listening on port 56941
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550266823	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofilehk6hdn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550269465	Marionette	INFO	Listening on port 57072
+1593550269942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550273848	Marionette	INFO	Stopped listening on port 57072
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550279993	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofiled20mQ0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550282616	Marionette	INFO	Listening on port 57135
+1593550283115	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.vdo.ai/core/b-wopita-v1/vdo.ai.banner.js, line 30: TypeError: bannerParentDiv is null
+1593550286881	Marionette	INFO	Stopped listening on port 57135
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550292967	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileuS09X1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550295633	Marionette	INFO	Listening on port 57249
+1593550296081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a.vdo.ai/core/b-wopita-v1/vdo.ai.banner.js, line 30: TypeError: bannerParentDiv is null
+1593550299183	Marionette	INFO	Stopped listening on port 57249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550305277	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileocnWtc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550307898	Marionette	INFO	Listening on port 57360
+1593550308387	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550312777	Marionette	INFO	Stopped listening on port 57360
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550321538	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofilep0D5a1"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550324188	Marionette	INFO	Listening on port 57459
+1593550324652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550328645	Marionette	INFO	Stopped listening on port 57459
+JavaScript error: https://www.mystypic.com/js/chunk-vendors.52b01a7e.js, line 31: Error: Request failed with status code 503
+JavaScript error: , line 0: uncaught exception: undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550333594	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofilecF9hVF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550336293	Marionette	INFO	Listening on port 57540
+1593550336707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550337599	Marionette	INFO	Stopped listening on port 57540
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550474920	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileT45EfI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550477675	Marionette	INFO	Listening on port 57633
+1593550478035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550481466	Marionette	INFO	Stopped listening on port 57633
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550498311	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileLFH3Hu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550500943	Marionette	INFO	Listening on port 57712
+1593550501427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550505397	Marionette	INFO	Stopped listening on port 57712
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NMoy4HgGiLr5NAQaEQa2ho8X/recaptcha__de.js, line 328: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1593550633212	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "--enable-javascript" "-foreground" "-no-remote" "-profile" "C:\\Users\\Osman\\AppData\\Local\\Temp\\rust_mozprofileD5g2If"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1593550635861	Marionette	INFO	Listening on port 57820
+1593550636328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593550639235	Marionette	INFO	Stopped listening on port 57820
+JavaScript error: https://www.gstatic.com/recaptcha/releases/NMoy4HgGiLr5NAQaEQa2ho8X/recaptcha__de.js, line 328: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

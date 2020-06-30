@@ -439,6 +439,10 @@ from modules.API.google_api_optical_character_recognition_remote import main as 
 def main(path, url):
     global flagged
     global timeout
+    global akg
+    global akgDE
+    global akgEN
+    global CONFIG_ITERATIONS
     print('MAIN1')
     #PATH = FILE # URL = URL
 
@@ -496,7 +500,6 @@ def main(path, url):
             return id
         else:
             for num, x in enumerate(rim):
-                global CONFIG_ITERATIONS
                 print(colored('NUM ' + str(num) + ' CONFIG_NUM: ' + str(CONFIG_ITERATIONS), 'yellow'))
                 #This is to limit the steps which our application takes
                 if num == int(CONFIG_ITERATIONS): break
@@ -567,9 +570,6 @@ def main(path, url):
                 )
 
             # After the for loop aggregate keywords
-            global akg
-            global akgDE
-            global akgEN
             print(akg)
             DATABASE.get_collection(CONFIG_COLLECTION).update_one(
                 {"_id": id},
@@ -587,11 +587,12 @@ def main(path, url):
             #akg needs to be resettet for next image
             akg = ''
             akg = Counter()
-            #akgDE = ''
-            #akgDE = Counter()
-            #akgEN = ''
-            #akgEN = Counter()
+            akgDE = ''
+            akgDE = Counter()
+            akgEN = ''
+            akgEN = Counter()
             flagged = False
+            CONFIG_ITERATIONS = config['rim']['count_of_iterations']
             return id
 
 
@@ -604,11 +605,12 @@ def main(path, url):
         # akg needs to be resettet for next image
         akg = ''
         akg = Counter()
-        # akgDE = ''
-        # akgDE = Counter()
-        # akgEN = ''
-        # akgEN = Counter()
+        akgDE = ''
+        akgDE = Counter()
+        akgEN = ''
+        akgEN = Counter()
         flagged = False
+        CONFIG_ITERATIONS = config['rim']['count_of_iterations']
         return id
 
 #If accessed directly exit
