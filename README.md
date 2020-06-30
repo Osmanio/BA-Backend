@@ -14,6 +14,9 @@ git clone git@github.com:Osmanio/BA-Backend.git
 - Install Python 3.7 (minimum required version)
 - You need to connect to the database before you start the application
 - You need Desktop development with C++ installed. Get it here: https://docs.microsoft.com/de-de/cpp/build/vscpp-step-0-installation?view=vs-2019
+- Install Firefox and Chrome. Also check for the actual Geckodriver/Chrome-Driver for your Chrome-Browser here: https://chromedriver.chromium.org  \
+  You can replace the driver file if you are facing issues with the provided one.
+- Replace the path's to the badwords txt-files in the configuration file (config.ini). Please use *absolute path's*.
 
 ### Create a Google developer account
 Create a Google developer account to make API-Calls
